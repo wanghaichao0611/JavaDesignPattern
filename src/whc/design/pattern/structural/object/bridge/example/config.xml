@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<config>
+    <!-- RefinedAbstraction -->
+    <className>whc.design.pattern.structural.object.bridge.example.JPGImage</className>
+    <!-- ConcreteImplementor -->
+    <className>whc.design.pattern.structural.object.bridge.example.WindowsImp</className>
+</config>
