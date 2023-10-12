@@ -1,0 +1,4 @@
+<?xml version="1.0" ?>
+<config>
+    <className>whc.design.pattern.structural.object.proxy.example.protect.ProxySearcher</className>
+</config>
