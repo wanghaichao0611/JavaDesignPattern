@@ -1,4 +1,4 @@
-package whc.design.pattern.behavioral.object.responsibility.example;
+package whc.design.pattern.behavioral.object.responsibility.thought;
 
 
 /**

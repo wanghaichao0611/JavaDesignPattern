@@ -1,6 +1,4 @@
-package whc.design.pattern.behavioral.object.responsibility.example;
-
-import java.util.*;
+package whc.design.pattern.behavioral.object.responsibility.thought;
 
 /**
  *
