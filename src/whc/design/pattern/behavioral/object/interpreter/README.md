@@ -11,7 +11,7 @@
 ```
 experssion :: = value | operation 
 operation :: = expression '+' experssion | expression '-' expression
-value :: = an integer // 一个数组
+value :: = an integer // 数组
 ```
 
 ## 3.解释器模式结构
