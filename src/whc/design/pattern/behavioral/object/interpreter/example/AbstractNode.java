@@ -7,7 +7,7 @@ package whc.design.pattern.behavioral.object.interpreter.example;
 public abstract class AbstractNode {
 
     /**
-     * 解释文法规则
+     * 解释文法规则 n
      */
     public abstract String interpret();
 }
